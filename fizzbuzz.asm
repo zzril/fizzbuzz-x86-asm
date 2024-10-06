@@ -16,7 +16,7 @@
 ;
 ; --------
 ; --------
-SECTION .data
+SECTION .rodata
 ; --------
 
 fizzbuzz_str:			db "FizzBuzz"
