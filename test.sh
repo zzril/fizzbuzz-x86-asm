@@ -1,4 +1,6 @@
-#! /bin/sh
+#! /bin/sh -e
+
+make
 
 ./fizzbuzz 3 5 50
 echo
@@ -21,3 +23,4 @@ echo
 ./fizzbuzz 3 1 10
 echo
 ./fizzbuzz 3 10 10
+

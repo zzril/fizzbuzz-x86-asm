@@ -1,3 +1,4 @@
 #! /bin/sh -e
 
-./fizzbuzz 3 5 50
+make && ./fizzbuzz 3 5 50
+
